@@ -11,7 +11,7 @@
 
 ### 本项目运行Demo
 
-- 进入→ [在线demo](https://codepay.jmkeji.net/)
+- 进入→ [在线demo](http://codepay.jmkeji.net/)
 
 ### 个人申请支付接口现状
 - 原生支付宝，微信支付
@@ -83,4 +83,4 @@
 
 
 #### codepay源码（含详细文档）获取方式 
-- 进入 [codepay官网](https://codepay.jmkeji.net/) 下载
+- 进入 [codepay官网](http://codepay.jmkeji.net/) 下载
